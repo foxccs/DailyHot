@@ -1,8 +1,8 @@
 {
   "name": "dailyhot",
   "description": "今日热榜",
-  "author": "青木博客",
-  "github": "https://wp.aoki.fun",
+  "author": "狐狸热点",
+  "github": "https://www.fenxn.cn",
   "version": "1.1.0",
   "private": true,
   "scripts": {
